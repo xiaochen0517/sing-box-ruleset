@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["jmssub.net"]
+      "domain_suffix": ["jmssub.net", "swig.org"]
     }
   ]
 }
