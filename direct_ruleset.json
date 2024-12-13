@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["jmssub.net", "swig.org", "sourceforge.net", "ddys.pro"]
+      "domain_suffix": ["jmssub.net", "swig.org", "sourceforge.net"]
     }
   ]
 }
