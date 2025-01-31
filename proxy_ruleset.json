@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["ping0.cc", "fcdn.sk", "gradle.org"]
+      "domain_suffix": ["ping0.cc", "fcdn.sk", "gradle.org", "staticfile.org"]
     }
   ]
 }
