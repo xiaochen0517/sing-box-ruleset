@@ -2,7 +2,13 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["ping0.cc", "fcdn.sk", "gradle.org", "staticfile.org"]
+      "domain_suffix": [
+        "ping0.cc",
+        "fcdn.sk",
+        "gradle.org",
+        "staticfile.org",
+        "frp-mix.com"
+      ]
     }
   ]
 }
