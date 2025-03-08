@@ -2,7 +2,12 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["jmssub.net", "swig.org", "sourceforge.net"]
+      "domain_suffix": [
+        "jmssub.net",
+        "swig.org",
+        "sourceforge.net",
+        "asasmr5.com"
+      ]
     }
   ]
 }
