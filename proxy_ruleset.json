@@ -2,7 +2,15 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["ping0.cc", "fcdn.sk", "gradle.org", "staticfile.org", "rudderlabs.com"]
+      "domain_suffix": [
+        "ping0.cc",
+        "fcdn.sk",
+        "gradle.org",
+        "staticfile.org",
+        "google.com",
+        "rcore-os.cn",
+        "rudderlabs.com"
+      ]
     }
   ]
 }
