@@ -12,6 +12,9 @@
         "rudderlabs.com",
         "hackthebox.com",
         "htb-cloud.com"
+      ],
+      "ip_cidr": [
+        "38.46.224.172"
       ]
     }
   ]
